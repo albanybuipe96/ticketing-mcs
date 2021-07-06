@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: albanybuipe/client
+          image: buipealbany/client
 ---
 apiVersion: v1
 kind: Service
